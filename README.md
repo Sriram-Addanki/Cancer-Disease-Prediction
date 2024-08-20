@@ -1,5 +1,6 @@
-# PREDICTION-AND-DETECTION-OF-CANCER-DISEASE
-My Academic Project
+# Prediction and detection of Cancer Disease
+
+Academic Project
 
 
 
